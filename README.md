@@ -1,5 +1,5 @@
 # Nepali Digital Khata
 
-<img src="./art/logo.png" />
+<img src="https://raw.githubusercontent.com/umanrai/nepali-digital-khata-bca-sem-8/main/arts/logo.png" />
  
 ####  Files to Bytes : Finance Simplified 
